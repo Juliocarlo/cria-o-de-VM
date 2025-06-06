@@ -1,12 +1,23 @@
 # cria-o-de-VM
 Etapas de criação de uma VM básica no Azure
+
 Processo de criação de uma VM no Azure
+
 Depois de criado a conta de acesso no Azure, é necessário realizar login na conta para ser possível configurar uma VM no Azure.
-Para configurar uma VM básica, é necessário determinar quais são os recursos para o funcionamento eficiente da VM, como sistema operacional, processador, memória, qual é a forma de acesso para gerenciar a VM.
-Em máquinas que necessitam de uma maior confiabilidade, é necessário determinar se esta VM possuirá instancias em outros locais, se seus dados serão duplicados, triplicados ou mais, em diversas regiões e estancias para garante uma maior confiabilidade do serviço.
-Se faz necessário também determinar qual é o nível desta confiabilidade, qual o tempo de indisponibilidade poderá ocorrer nesta máquina, e estes dados definirão também em quantas estancias e regiões esta VM será duplicada. 
-Outro fator importante é determinar a escalabilidade e a flexibilidade da VM. Deve-se definir se esta VM terá capacidade de aumento de recursos e também se ela será flexível para o gerenciamento de uso.
+Para configurar uma VM básica, é necessário determinar quais são os recursos para o funcionamento eficiente da VM, 
+como sistema operacional, processador, memória, qual é a forma de acesso para gerenciar a VM.
+
+Em máquinas que necessitam de uma maior confiabilidade, é necessário determinar se esta VM possuirá instancias em outros locais, 
+se seus dados serão duplicados, triplicados ou mais, em diversas regiões e estancias para garante uma maior confiabilidade do serviço.
+
+Se faz necessário também determinar qual é o nível desta confiabilidade, qual o tempo de indisponibilidade poderá ocorrer nesta máquina, 
+e estes dados definirão também em quantas estancias e regiões esta VM será duplicada. 
+
+Outro fator importante é determinar a escalabilidade e a flexibilidade da VM. 
+Deve-se definir se esta VM terá capacidade de aumento de recursos e também se ela será flexível para o gerenciamento de uso.
+
 Para iniciar a criação da VM básica seguiremos os seguintes passos:
+
 1-	Na plataforma do Azure, na primeira página, selecionar o ícone de máquina virtual
 2-	Na próxima etapa, acessar o botão de acesso CRIAR
 3-	Definir no menu de contexto que será aberto ao lado do botão CRIAR, qual é o de VM que será criado.
