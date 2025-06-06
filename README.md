@@ -71,6 +71,8 @@ https://github.com/Juliocarlo/cria-o-de-VM/blob/main/CONFIGURA%C3%87%C3%83O%20DE
 
 11-	Na última etapa será realizada a revisão da criação da VM
 
+
+
 OBSERVAÇÕES:
 Durante a criação da VM, verificar as informações do direito os custos mensais estimados que a VM poderá possuir mensalmente. 
 Caso o valor ultrapasse ao orçamento realizado, será necessário reconfigurar toda a máquina até ela esteja dentro do orçamento disponível para utilização. 
