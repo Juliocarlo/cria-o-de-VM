@@ -27,6 +27,10 @@ https://github.com/Juliocarlo/cria-o-de-VM/blob/main/INICIO%20DA%20CRIA%C3%87%C3
 https://github.com/Juliocarlo/cria-o-de-VM/blob/main/BOT%C3%83O%20DE%20ACESSO%20CRIAR%20%20FIGURA%202.png
 
 3-	Definir no menu de contexto que será aberto ao lado do botão CRIAR, qual é o de VM que será criado.
+
+https://github.com/Juliocarlo/cria-o-de-VM/blob/main/DEFINIR%20QUAL%20O%20FORMATO%20DA%20VM%20QUE%20SER%C3%81%20CRIADO%20FIGURA%203.png
+
+
 4-	Na próxima etapa deve-se escolher qual é a assinatura do Azure, grupo de recursos; nos detalhes da instancia é necessário colocar nome da máquina virtual, escolher a região, opções de disponibilidade, opções de zona e zona de disponibilidade.
 5-	A próxima etapa será a configuração dos discos. É necessário definir qual o tamanho e tipo do disco de SO, escolher o gerenciamento de chaves, habilitar compatibilidade do disco, escolher se deseja criptografia de disco.
 6-	A seguir, será configurada a rede. Nesta etapa se determina qual é a interface de rede, qual é o endereço da rede, IP Público, portas de entrada públicas
