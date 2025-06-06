@@ -42,7 +42,11 @@ escolher o gerenciamento de chaves, habilitar compatibilidade do disco, escolher
 
 https://github.com/Juliocarlo/cria-o-de-VM/blob/main/CONFIGURANDO%20OS%20DISCOS%20FIGURA%205.png
 
-6-	A seguir, será configurada a rede. Nesta etapa se determina qual é a interface de rede, qual é o endereço da rede, IP Público, portas de entrada públicas
+6-	A seguir, será configurada a rede. Nesta etapa se determina qual é a interface de rede, 
+qual é o endereço da rede, IP Público, portas de entrada públicas
+
+https://github.com/Juliocarlo/cria-o-de-VM/blob/main/CONFIGURANDO%20A%20REDE%20FIGURA%206.png
+
 7-	Seguindo a criação da VM, escolher o gerenciamento que será utilizado.
 8-	Determinar qual é a forma de gerenciar a VM
 9-	Determinar quais aplicativos da VM serão instalados, recursos de desempenho dos NVMe, host, reservas de capacidade, grupo de posicionamento 
