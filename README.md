@@ -34,6 +34,7 @@ https://github.com/Juliocarlo/cria-o-de-VM/blob/main/DEFINIR%20QUAL%20O%20FORMAT
 escolher a região, opções de disponibilidade, opções de zona e zona de disponibilidade.
 
 https://github.com/Juliocarlo/cria-o-de-VM/blob/main/CONFIGURANDO%20REGI%C3%83O%20DA%20VM%20FIGURA%204.png
+https://github.com/Juliocarlo/cria-o-de-VM/blob/main/CONFIGURANDO%20REGI%C3%83O%20DA%20VM%20FIGURA%204-A.png
 
 5-	A próxima etapa será a configuração dos discos. É necessário definir qual o tamanho e tipo do disco de SO, escolher o gerenciamento de chaves, habilitar compatibilidade do disco, escolher se deseja criptografia de disco.
 6-	A seguir, será configurada a rede. Nesta etapa se determina qual é a interface de rede, qual é o endereço da rede, IP Público, portas de entrada públicas
