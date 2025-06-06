@@ -20,6 +20,8 @@ Para iniciar a criação da VM básica seguiremos os seguintes passos:
 
 1-	Na plataforma do Azure, na primeira página, selecionar o ícone de máquina virtual
 
+https://github.com/Juliocarlo/cria-o-de-VM/blob/main/INICIO%20DA%20CRIA%C3%87%C3%83O%20DA%20VM%20FIGURA%201.png
+
 2-	Na próxima etapa, acessar o botão de acesso CRIAR
 3-	Definir no menu de contexto que será aberto ao lado do botão CRIAR, qual é o de VM que será criado.
 4-	Na próxima etapa deve-se escolher qual é a assinatura do Azure, grupo de recursos; nos detalhes da instancia é necessário colocar nome da máquina virtual, escolher a região, opções de disponibilidade, opções de zona e zona de disponibilidade.
