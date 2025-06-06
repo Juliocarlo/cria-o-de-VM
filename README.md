@@ -37,7 +37,10 @@ https://github.com/Juliocarlo/cria-o-de-VM/blob/main/CONFIGURANDO%20REGI%C3%83O%
 https://github.com/Juliocarlo/cria-o-de-VM/blob/main/CONFIGURANDO%20REGI%C3%83O%20DA%20VM%20FIGURA%204-A.png
 https://github.com/Juliocarlo/cria-o-de-VM/blob/main/CONFIGURANDO%20REGI%C3%83O%20DA%20VM%20FIGURA%204-B.png
 
-5-	A próxima etapa será a configuração dos discos. É necessário definir qual o tamanho e tipo do disco de SO, escolher o gerenciamento de chaves, habilitar compatibilidade do disco, escolher se deseja criptografia de disco.
+5-	A próxima etapa será a configuração dos discos. É necessário definir qual o tamanho e tipo do disco de SO, 
+escolher o gerenciamento de chaves, habilitar compatibilidade do disco, escolher se deseja criptografia de disco.
+
+
 6-	A seguir, será configurada a rede. Nesta etapa se determina qual é a interface de rede, qual é o endereço da rede, IP Público, portas de entrada públicas
 7-	Seguindo a criação da VM, escolher o gerenciamento que será utilizado.
 8-	Determinar qual é a forma de gerenciar a VM
