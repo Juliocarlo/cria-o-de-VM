@@ -66,7 +66,7 @@ https://github.com/Juliocarlo/cria-o-de-VM/blob/main/CONFIGURA%C3%87%C3%83O%20DE
 
 10-	Determinar quais marcas serão utilizadas
 
-
+https://github.com/Juliocarlo/cria-o-de-VM/blob/main/CONFIGURA%C3%87%C3%83O%20DE%20MARCAS%20FIGURA%2010.png
 
 
 11-	Na última etapa será realizada a revisão da criação da VM
