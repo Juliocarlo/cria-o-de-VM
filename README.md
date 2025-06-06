@@ -54,8 +54,12 @@ https://github.com/Juliocarlo/cria-o-de-VM/blob/main/CONFIGURANDO%20OP%C3%87%C3%
 
 8-	Determinar qual é a forma de gerenciar a VM.
 
+https://github.com/Juliocarlo/cria-o-de-VM/blob/main/CONFIGURANDO%20O%20MONITORAMENTO%20DA%20VM%20FIGURA%208.png
 
-9-	Determinar quais aplicativos da VM serão instalados, recursos de desempenho dos NVMe, host, reservas de capacidade, grupo de posicionamento 
+
+9-	Determinar quais aplicativos da VM serão instalados, recursos de desempenho dos NVMe, host, reservas de capacidade, grupo de posicionamento.
+
+
 10-	Determinar quais marcas serão utilizadas
 11-	Na última etapa será realizada a revisão da criação da VM
 
