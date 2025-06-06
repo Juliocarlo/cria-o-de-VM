@@ -69,9 +69,9 @@ https://github.com/Juliocarlo/cria-o-de-VM/blob/main/CONFIGURA%C3%87%C3%83O%20DE
 https://github.com/Juliocarlo/cria-o-de-VM/blob/main/CONFIGURA%C3%87%C3%83O%20DE%20MARCAS%20FIGURA%2010.png
 
 
-11-	Na última etapa será realizada a revisão da criação da VM
+11-	Na última etapa será realizada a revisão da criação da VM.
 
-
+https://github.com/Juliocarlo/cria-o-de-VM/blob/main/OBSERVA%C3%87%C3%95ES.png
 
 OBSERVAÇÕES:
 Durante a criação da VM, verificar as informações do direito os custos mensais estimados que a VM poderá possuir mensalmente. 
